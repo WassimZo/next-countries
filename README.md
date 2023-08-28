@@ -18,7 +18,7 @@ This is a solution to the [REST Countries challenge on Frontend Mentor](https://
 
 ### Screenshot
 
-!["REST Countries"](/images/Screenshot.png)
+!["REST Countries"]([/images/Screenshot.png](https://github.com/WassimZo/next-countries/blob/master/public/screenshot.png?raw=true))
 
 ### The challenge
 
@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/WassimZo/Ip-Tracker](https://github.com/WassimZo/next-countries)
-- Live Site URL: [https://ip-tracker-wass.vercel.app/](https://ip-tracker-wass.vercel.app/)
+- Live Site URL: [https://next-countries-wassimzo.vercel.app/](https://next-countries-wassimzo.vercel.app/)
 
 ### Built with
 
