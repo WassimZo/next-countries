@@ -15,7 +15,7 @@ export default async function Home() {
         <Searchbar />
         <SelectRegion />
       </div>
-      <CountriesList countries={countries} query="Al" />
+      <CountriesList countries={countries} />
     </main>
   );
 }
