@@ -18,7 +18,7 @@ This is a solution to the [REST Countries challenge on Frontend Mentor](https://
 
 ### Screenshot
 
-!["REST Cuntries"](/images/Screenshot.png)
+!["REST Countries"](/images/Screenshot.png)
 
 ### The challenge
 

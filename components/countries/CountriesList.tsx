@@ -5,7 +5,7 @@ import CountryCard from "./CountryCard";
 import { Country } from "@/common.types";
 import { SearchContext } from "@/context/search.context";
 
-const CountriesList = ({ countries }: { countries: unknown[] }) => {
+const CountriesList = ({ countries }: { countries: any[] }) => {
   const [displayedCountries, setDisplayedCountries] = useState(countries);
   const { query } = useContext(SearchContext);
   useEffect(() => {
