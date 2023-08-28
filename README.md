@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/WassimZo/Ip-Tracker](https://github.com/WassimZo/next-countries)
+- Solution URL: [https://github.com/WassimZo/next-countries](https://github.com/WassimZo/next-countries)
 - Live Site URL: [https://next-countries-wassimzo.vercel.app/](https://next-countries-wassimzo.vercel.app/)
 
 ### Built with
