@@ -2,7 +2,6 @@
 
 import { useContext, useEffect, useState } from "react";
 import CountryCard from "./CountryCard";
-import { Country } from "@/common.types";
 import { SearchContext } from "@/context/search.context";
 
 const CountriesList = ({ countries }: { countries: any[] }) => {
@@ -24,7 +23,7 @@ const CountriesList = ({ countries }: { countries: any[] }) => {
   return (
     <section className="mt-20 w-full">
       <ul className="grid gap-10 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 auto-rows-[400px]">
-        {displayedCountries.length &&
+        {displayedCountries.length > 0 &&
           displayedCountries.map((country: any) => (
             <CountryCard
               flag={country.flags.png}
@@ -35,6 +34,7 @@ const CountriesList = ({ countries }: { countries: any[] }) => {
               cca3={country.alpha3Code}
             />
           ))}
+        {displayedCountries.length === 0 && <h1>No result found</h1>}
       </ul>
     </section>
   );
