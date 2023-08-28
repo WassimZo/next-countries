@@ -18,7 +18,7 @@ This is a solution to the [REST Countries challenge on Frontend Mentor](https://
 
 ### Screenshot
 
-!["REST Countries"]([/images/Screenshot.png](https://github.com/WassimZo/next-countries/blob/master/public/screenshot.png?raw=true))
+!["REST Countries"](https://github.com/WassimZo/next-countries/blob/master/public/screenshot.png?raw=true)
 
 ### The challenge
 
